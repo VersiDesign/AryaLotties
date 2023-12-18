@@ -1,1 +1,1 @@
-Lottie intro for JHA
+Lottie animations for Arya
